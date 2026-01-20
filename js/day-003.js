@@ -575,3 +575,6 @@ console.log("Senior (weekend): $" + getTicketPrice(70, true));   // $20
 // ============================================
 // 🎉 END OF DAY 3 EXERCISES - COMPLETED ✅
 // ============================================
+const ad = "go"
+
+const toUpper = ad.toUpperCase()
